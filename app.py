@@ -7,7 +7,6 @@ Created on Sat Jan 30 19:35:39 2021
 """
 
 import streamlit as st
-import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
